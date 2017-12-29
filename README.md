@@ -1,4 +1,4 @@
 # hello-world
-my first repository
-
-This is an edit to the readme file for #hello world. It was created to reflect my newfound understanding of branches
+Hi
+Kyle here
+I'm on github learning how to write Ruby, and maybe more.
